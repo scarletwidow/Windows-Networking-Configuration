@@ -6,4 +6,6 @@ A hands-on lab used to demonstrate understanding of Windows Network Configuratio
 - Configuring file and printer sharing
 - Mapping network drives
 - Establishing VPN connectivity and proxy settings
-- Troubleshooting skills. 
+- Troubleshooting skills
+
+## Configure IP Address
